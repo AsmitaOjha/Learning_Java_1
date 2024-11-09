@@ -1,14 +1,14 @@
 class A extends Thread {
     public void run(){
         for(int i=0; i<5; i++){
-            System.out.println("Hello mammi");
+            System.out.println("Hello mammi 💓");
         }
     }
 }
 class B extends Thread {
     public void run(){
         for(int i=0;i<5; i++){
-            System.out.println("Hello Baba");
+            System.out.println("Hello Baba 💐");
 
         }
     }
