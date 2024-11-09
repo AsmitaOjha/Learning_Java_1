@@ -1,14 +1,14 @@
 class First implements Runnable{
     public void run(){
         for(int i=0; i<50;i++){
-            System.out.println("Hello Mammi");
+            System.out.println("Hello Dora");
         }
     }
 }
 class Second implements Runnable{
     public void run(){
         for(int i=0; i<50;i++){
-            System.out.println("Hello Baba");
+            System.out.println("Hello Monkey");
         }
     }
 }
